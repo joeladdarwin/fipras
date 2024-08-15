@@ -8,7 +8,5 @@ import { Component } from '@angular/core';
 export class Tab1Page {
   clientName!: string;
   constructor() {}
-  ngOnInit() {
-    this.clientName = "Joe";
-  }
+  
 }
